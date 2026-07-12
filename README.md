@@ -66,9 +66,12 @@ The entire brand identity — logo, color palette, and typography — was design
 
 **Key contributions:**
 
-- Delivered a complete brand launch package — logo, visual identity, and website — enabling JBC to go to market with a coherent professional presence from day one
-- Engineered a hybrid Flash + PHP architecture with a custom CMS so the client could update all five content sections without developer involvement, reducing ongoing maintenance cost
-- Designed an animated Flash UI (office desk with five sticky-note hotspots for Home, Structure, Services, Advantages, and Contacts) that guided visitors through the sales funnel in a single, memorable interaction
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Complete brand launch package** — logo, visual identity, and website delivered together, enabling JBC to go to market with a coherent professional presence from day one
+- **Self-editable custom CMS** — a hybrid Flash + PHP architecture letting the client update all five content sections without developer involvement, reducing ongoing maintenance cost
+- **Memorable animated interface** — an office-desk UI with five sticky-note hotspots (Home, Structure, Services, Advantages, Contacts) that guided visitors through the sales funnel in a single interaction
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
